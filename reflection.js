@@ -1,4 +1,4 @@
-console.log ("The intramurals were indeed a great experience for me. We didn’t just have a great time competing against each other; we also got valuable lessons about working in teams, discipline, respect, and sportsmanship. We saw how people from different organizations and teams cheered for their respective classes. We saw the talents and skills each person had.
+console.log ("The intramurals were indeed a great experience for me. We didn’t just have a great time competing against each other; we also got valuable lessons about working in teams, discipline, respect, and sportsmanship. We saw how people from different organizations and teams cheered for their respective teams. We saw the talents and skills each person had.
 
 Although there may be winners and losers in these games, I realized that what matters most is that we competed as one. That it does not matter whether we win or lose because regardless, we gave our best shots, and we all had a great time playing with our classmates and friends. We made new friends, and we had so many unforgettable stories and moments that we could always remember.
 
